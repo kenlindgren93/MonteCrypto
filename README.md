@@ -1,4 +1,4 @@
-# **Project1_MonteCrypto**
+# **Monte Crypto**
 
 ## Team: 
 
