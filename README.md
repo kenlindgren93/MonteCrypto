@@ -6,7 +6,7 @@ Cassandra Johnson, Ken Lindgren, Rawad Habib, Antonio Pinkston, Floriane Beyegue
 
 ## Project Description: 
 
-Our group analyzed different investments to see which types of investments gave the greatest return over a 5 year horizon (since January 1, 2015), and which instruments were projected to give the greatest return in the future.  We wanted a diverse portfolio, and compared small portfolios of stocks, crypto currency, metals, agricultural commodities, and also an investment in a index fund tied to the S&P500.  
+Our group analyzed different investments to see which types of investments gave the greatest return over a 5 year horizon (since January 1, 2015), and which instruments were projected to give the greatest return in the future.  We wanted a diverse portfolio, and compared small portfolios of stocks, cryptocurrency, metals, agricultural commodities, and also an investment in a index fund tied to the S&P500.  
 
 We also wanted to determine what would be the 'optimal' portfolio mix of all investments, using the sharpe ratio to optimize risk and return.  We also tested if this 'optimal' mix would change when looking at investment performance pre-COVID vs. post-COVID using February 2020 as a cut-off date.  
 
@@ -58,5 +58,5 @@ Sharpe Pre-COVID
 Sharpe Post-COVID
 ![S&P Post-COVID](/Images/Sharpe_postcovid.png)
 
-We were surprised to see that while crypto currency had the best historical returns, it didn't compose a large portion of the optimal portfolio.  We attributed this to the fact that crypto was high return, but it was also high risk with high volatility.  We were also surprised to see items we considered low return, such as soybeans, to be a large holding in the optimal portfolio post-COVID.  After researching soybean performance, we realized this occurred because certain weather and international impacts caused soybean prices to rise significantly in the post-COVID time period. 
+We were surprised to see that while cryptocurrency had the best historical returns, it didn't compose a large portion of the optimal portfolio.  We attributed this to the fact that crypto was high return, but it was also high risk with high volatility.  We were also surprised to see items we considered low return, such as soybeans, to be a large holding in the optimal portfolio post-COVID.  After researching soybean performance, we realized this occurred because certain weather and international impacts caused soybean prices to rise significantly in the post-COVID time period. 
 
