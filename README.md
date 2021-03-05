@@ -6,7 +6,7 @@ Cassandra Johnson, Ken Lindgren, Rawad Habib, Antonio Pinkston, Floriane Beyegue
 
 ## Project Description: 
 
-Our group analyzed different investments to see which types of investments gave the greatest return over a 5 year horizon (since January 1, 2015), and which instruments were projected to give the greatest return in the future.  We wanted a diverse portfolio, and compared small portfolios of stocks, cryptocurrency, metals, agricultural commodities, and also an investment in a index fund tied to the S&P500.  
+Our group analyzed different investments to see which types of portfolio weights gave the greatest return over a 5 year horizon (since January 1, 2015), and which instruments were projected to give the greatest return in the future.  We wanted a diverse portfolio, and compared small portfolios of stocks, cryptocurrency, metals, agricultural commodities, and also an investment in a index fund tied to the S&P500.  
 
 We also wanted to determine what would be the 'optimal' portfolio mix of all investments, using the sharpe ratio to optimize risk and return.  We also tested if this 'optimal' mix would change when looking at investment performance pre-COVID vs. post-COVID using February 2020 as a cut-off date.  
 
